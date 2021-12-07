@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sprint2</string>
+    <string name="peso">Peso: </string>
+    <string name="kg">Kg</string>
+    <string name="estatura">Estatura: </string>
+    <string name="cm"> m</string>
+    <string name="calcular">Calcular</string>
+    <string name="nombre">Nombre: </string>
+    <string name="genero">Género</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+</resources>
